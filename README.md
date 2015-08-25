@@ -1,0 +1,2 @@
+# GitHubDocumentation
+Only for documentation
